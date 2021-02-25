@@ -1,17 +1,4 @@
-# react-native-baidu-face
+# react-native-baidu-offline-face
 
 ## Getting started
-
-`$ npm install react-native-baidu-face --save`
-
-### Mostly automatic installation
-
-`$ react-native link react-native-baidu-face`
-
-## Usage
-```javascript
-import BaiduFace from 'react-native-baidu-face';
-
-// TODO: What to do with the module?
-BaiduFace;
-```
+具体使用方法请查看源码
